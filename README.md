@@ -139,7 +139,7 @@ awesome-agentic-skills/
 | 完整知识库 | [awesome-agentic-skills.md](awesome-agentic-skills.md) | 📖 必读 |
 | antigravity-awesome-skills | [GitHub ⭐42k](https://github.com/sickn33/antigravity-awesome-skills) | 1,900+ Skills |
 | VoltAgent/awesome-agent-skills | [GitHub ⭐27k](https://github.com/VoltAgent/awesome-agent-skills) | 官方团队出品 |
-| Suede Creator Skills | [GitHub ⭐166](https://github.com/JasonColapietro/suede-creator-skills) | 面向 Claude Code 与 Codex 的 67 个 MIT 开源工作流 Skills |
+| Suede Creator Skills | [GitHub ⭐151](https://github.com/JasonColapietro/suede-creator-skills) | 面向 Claude Code 与 Codex 的 71 个 MIT 开源工作流 Skills |
 | Claude Code 最佳实践 | [GitHub](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | 项目模板 + 安全手册 |
 
 ---
