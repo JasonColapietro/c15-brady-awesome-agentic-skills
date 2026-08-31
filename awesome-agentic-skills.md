@@ -423,7 +423,7 @@ npx agent-rules-sync split    # 拆分模式（每平台独立文件，可分别
 | [Kevinchamplin/claude-skills](https://github.com/Kevinchamplin/claude-skills) | — | 精选 | Claude Code 专属社区策展，适合参考学习 |
 | [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | — | 创意类 | 电影级落地页、视频制作、设计系统等创意 Skills |
 | [scienceaix/agentskills](https://github.com/scienceaix/agentskills) | — | 论文+资源 | 学术视角：论文、框架工具、多智能体协作研究 |
-| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | **151** | **71** | MIT 授权的 Claude Code 与 Codex Skills，覆盖多智能体编排、Codex 工作节点集群、代码审查、AI 评测、产品、设计和增长工作流 |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | **129** | **74** | MIT 授权的 Claude Code 与 Codex Skills，覆盖多智能体编排、Codex 工作节点集群、代码审查、AI 评测、产品、设计和增长工作流 |
 | [EgoAlpha/awesome-DeepAgent-skills](https://github.com/EgoAlpha/awesome-DeepAgent-skills) | — | 分类收录 | DeepAgent 框架，含 Skills vs MCP 优劣势对比 |
 | [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | — | 11 套模板 | 30+ 操作指南 + 项目模板 + 安全手册，落地首选 |
 | [IsHexx/system-prompts-and-models-of-ai-tools-chinese](https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese) | — | 中文合集 | 全中文 System Prompt 翻译，适合国内开发者 |
